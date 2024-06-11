@@ -1,57 +1,70 @@
-body
-{
-	margin:0;
-	padding:0;
+body {
+	margin: 0;
+	padding: 0;
 	background: url(fondo.png) no-repeat center top;
 	background-size: cover;
-	font-family: sans-serif;
+	font-family: Arial, sans-serif;
 }
-
-table
-{
-	margin:0;
-	border: 2px solid #353A46;
-	background-color: #3ABAF1;
-	top: 50%;
-	left: 50%;
-	position: absolute;
-	transform: translate(-50%,-50%);
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
 }
-
-td
-{
-	padding: 10px 40px;
+.form-container {
+	background-color: #ffffff;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
-input[type=text], input[type=password]
-{
-	width:100%;
-	font-size:16px;
+.form-container table {
+	width: 100%;
+	max-width: 400px;
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+.form-container td {
+	padding: 10px;
+	text-align: left;
+}
+.form-container input[type="text"],
+.form-container input[type="password"] {
+	width: 100%;
+	padding: 10px;
 	border: none;
-	box-sizing: border-box;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid #353A46;
 	background: transparent;
+	font-size: 16px;
+	box-sizing: border-box;
 }
-
-label
-{
-	font-size:16px;
-	font-weight: bold;
-}
-
-input[type=submit]
-{
-	font-size:16px;
-	background-color: #f3f3f3;
-	color:black;
-	font-weight: bold;
+.form-container input[type="submit"] {
+	width: 100%;
+	padding: 10px;
+	background-color: #1C94C8;
+	color: white;
+	border: none;
 	border-radius: 20px;
-	height: 40px;
-	width: 200px;
-	border: solid;
+	cursor: pointer;
+	font-size: 16px;
+	margin-top: 10px;
+	transition: background-color 0.3s;
 }
-
-a
-{
-	font-size: 12px;
+.form-container input[type="submit"]:hover {
+	background-color: #136A8A;
+}
+.form-container a {
+	font-size: 14px;
+	color: #1C94C8;
+	text-decoration: none;
+}
+.form-container a:hover {
+	text-decoration: underline;
+}
+.logovai img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: #1C94C8;
+	border: 3px solid #1C94C8;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
