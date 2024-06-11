@@ -1,3 +1,3 @@
-# Practica 09 
-## _Login Básico con Sesiones ($_SESSION) en HTML, CSS, SQL y PHP_
-Un login sencillo que se conecta con una base de datos solicitando los datos de usuarios y contraseñas registrados. También se hace uso de sesiones por parte de PHP.
+# Administración de Sesiones de Usuarios
+## _Área: Prácticas_
+Esta práctica se centra en el desarrollo de un sistema de autenticación de usuarios para una aplicación web. Se emplean tecnologías como HTML, CSS, JavaScript, PHP y MySQL para implementar las funcionalidades necesarias.
