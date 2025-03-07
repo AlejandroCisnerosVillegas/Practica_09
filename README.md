@@ -3,7 +3,7 @@
 Esta práctica se centra en el desarrollo de un sistema de autenticación de usuarios para una aplicación web. Se emplean tecnologías como HTML, CSS, JavaScript, PHP y MySQL para implementar las funcionalidades necesarias.
 
 <p align="center">
-  <img src="./img/Readme-01.png" alt="Descripción de la imagen" width="60%">
+  <img src="./Readme-01.png" alt="Descripción de la imagen" width="60%">
 </p>
 
 La interfaz de usuario consta de dos partes principales: el formulario de inicio de sesión y la página de inicio después de iniciar sesión correctamente.
