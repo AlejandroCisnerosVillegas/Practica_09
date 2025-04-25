@@ -16,7 +16,7 @@ Además, se implementan algunas características adicionales, como la recuperaci
 
 En conclusión, esta práctica demuestra la implementación de un sistema de autenticación de usuarios básico utilizando PHP y MySQL, con una interfaz de usuario simple pero funcional.
 
-**Consulta la versión preliminar de la practica aquí:** [https://practica_09.com](https://alejandrovillegas.net/projects/practice-09/index.php)
+**Consulta la versión preliminar de la practica aquí:** [https://practica_09.com](https://www.alejandrovillegas.dev/projects/practice-09/index.php)
 
 # 📌 Información de la Practica
 
@@ -28,7 +28,7 @@ Esta practica ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 21 de septiembre de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración
 
